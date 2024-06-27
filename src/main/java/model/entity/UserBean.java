@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * ユーザを表します。
  * m_userのDTOであり、Beanオブジェクトです。
- * @author emBex Education
+ * @author 
  */
 public class UserBean implements Serializable {
 

@@ -12,9 +12,6 @@
 <form action="UserList-Servlet" method="POST">
 <input type= submit value= "ユーザ一覧表示">
 </form>
-<form action="UserList-Add-Servlet" method="POST">
-<input type= submit value= "ユーザ追加">
-</form>
 <%@ include file="footer.jsp" %>
 </body>
 </html>

@@ -15,7 +15,7 @@ import model.dao.UserDAO;
 /**
  * Servlet implementation class LoginServlet
  */
-@WebServlet("Login-Servlet")
+@WebServlet("/login-servlet")
 public class LoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
